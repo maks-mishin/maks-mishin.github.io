@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Открытый разработчик из закрытого города.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Работаю в НИИ, занимаюсь численными методами электродинамики и параллельными вычислениями.
+Пишу на Python, C/C++. В свободное время занимаюсь backend-разработкой и веду блог.
+Если вы меня читали и появились замечания/предложения, скорее напишите мне об этом.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Мои проекты можете найти на <a href="https://github.com/maks-mishin/" target="_blank">GitHub</a>.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Для связи со мной тележка 
+<a href="https://t.me/maks_mishin/" target="_blank">maks_mishin</a> 
+или почта <a type="email" href="mailto:maks.mishinFZ@gmail.com" target="_blank">maks.mishinFZ@gmail.com</a>
