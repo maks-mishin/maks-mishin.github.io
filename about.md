@@ -12,6 +12,6 @@ permalink: /about/
 
 Мои проекты можете найти на <a href="https://github.com/maks-mishin/" target="_blank">GitHub</a>.
 
-Для связи со мной Telegram 
-<a href="https://t.me/maks_mishin/" target="_blank">maks_mishin</a> 
+Для связи со мной <a href="https://vk.ru/maks.mishinfz/" target="_blank">VK</a>, 
+<a href="https://t.me/maks_mishin/" target="_blank">Telegram</a> 
 или почта <a type="email" href="mailto:maks.mishinFZ@gmail.com" target="_blank">maks.mishinFZ@gmail.com</a>

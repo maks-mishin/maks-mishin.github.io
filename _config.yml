@@ -11,6 +11,9 @@ telegram_username: maks_mishin
 
 # Build settings
 theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
