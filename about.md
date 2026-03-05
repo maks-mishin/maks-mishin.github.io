@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Обо мне
+title: About
 permalink: /about/
 ---
 
-Открытый разработчик из закрытого города.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Работаю в НИИ: разрабатываю численные методы для электродинамики и занимаюсь параллельными вычислениями. Основные инструменты — Python, C/C++, Fortran.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-В свободное время учу школьников точным наукам и сам не перестаю учиться: разбираю алгоритмы, решаю математические задачи и делюсь здесь своим опытом. В этом блоге — заметки о пути разработчика, исследователя и преподавателя.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-Мои проекты можете найти на <a href="https://github.com/maks-mishin/" target="_blank">GitHub</a>.
 
-Для связи со мной <a href="https://vk.ru/maks.mishinfz/" target="_blank">VK</a>, 
-<a href="https://t.me/maks_mishin/" target="_blank">Telegram</a> 
-или почта <a type="email" href="mailto:maks.mishinFZ@gmail.com" target="_blank">maks.mishinFZ@gmail.com</a>
+[jekyll-organization]: https://github.com/jekyll
