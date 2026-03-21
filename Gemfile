@@ -9,3 +9,4 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
 end
 gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
+gem 'wdm', '>= 0.1.0'
